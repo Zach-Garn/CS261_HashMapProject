@@ -1,8 +1,6 @@
 # Name: Zachary Garner
-# OSU Email: garnerz@oregonstate.edu
 # Course: CS261 - Data Structures
 # Assignment: HashMap Implementation
-# Due Date: 12/07/2023
 # Description: Class for a HashMap data structure that utilizes a DynamicArray for storage. This class uses open
 # addressing with quadratic probing for its collision resolution.
 
